@@ -1,0 +1,8 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/WEBSETUP-DATA.txt
+!/manifest.json
+!/parts/
+/parts/*
+!/parts/*.part

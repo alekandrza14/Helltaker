@@ -1,0 +1,2 @@
+* -text
+parts/*.part -text -diff -merge

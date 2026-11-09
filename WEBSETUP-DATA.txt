@@ -1,0 +1,4 @@
+Unauticna WebSetup Git data v1
+Manifest-SHA256: 1f151f91a6e78b5b7c55cc0f497473844af8cf6cc560fc01c99c243d390d775f
+Repository: alekandrza14/Helltaker
+Branch: main
